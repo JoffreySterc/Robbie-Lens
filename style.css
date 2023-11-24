@@ -1,0 +1,53 @@
+a {
+    color : #242424;
+    text-decoration: none;
+
+}
+
+.important {
+    color :#A5B4FC;
+    font-style: normal;
+}
+
+h1{
+    font-family: 'Montserrat' ;
+    font-size: 3.5em ;
+    color: #A5B4FC;
+}
+
+h2{
+    color : #f9f8ff;
+}
+
+p, li{
+    
+    font-size: 1.1em ;
+    color : #f9f8ff;
+}
+
+
+body {
+    font-family: 'Manrope';
+    font-size: 1em;
+    background-color: #1F2039 ;
+    
+}
+
+
+
+.haut, .bas{
+    background-color: white;
+}
+
+.cta{
+    background: linear-gradient( #8e86b5, #acaeed);
+    color: white;
+    border-radius: 50px;
+}
+
+.corps{
+    border-bottom : 1px solid #8e86b5;
+    border-right: 1px solid #8e86b5;
+  
+}
+
